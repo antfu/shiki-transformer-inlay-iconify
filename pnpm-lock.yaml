@@ -14,9 +14,6 @@ importers:
       '@shikijs/types':
         specifier: ^1.19.0
         version: 1.19.0
-      colorjs.io:
-        specifier: ^0.5.2
-        version: 0.5.2
     devDependencies:
       '@antfu/eslint-config':
         specifier: ^3.7.2
@@ -1769,9 +1766,6 @@ packages:
 
   colorette@2.0.20:
     resolution: {integrity: sha512-IfEDxwoWIjkeXL1eXcDiow4UbKjhLdq6/EuSVR9GMN7KVH3r9gQ83e73hsz1Nd1T3ijd5xv1wcWRYO+D6kCI2w==}
-
-  colorjs.io@0.5.2:
-    resolution: {integrity: sha512-twmVoizEW7ylZSN32OgKdXRmo1qg+wT5/6C3xu5b9QsWzSFAhHLn2xd8ro0diCsKfCj1RdaTP/nrcW+vAoQPIw==}
 
   comma-separated-tokens@2.0.3:
     resolution: {integrity: sha512-Fu4hJdvzeylCfQPp9SGWidpzrMs7tTrlu6Vb8XGaRGck8QSNZJJp538Wrb60Lax4fPwR64ViY468OIUTbRlGZg==}
@@ -5417,8 +5411,6 @@ snapshots:
   colord@2.9.3: {}
 
   colorette@2.0.20: {}
-
-  colorjs.io@0.5.2: {}
 
   comma-separated-tokens@2.0.3: {}
 
