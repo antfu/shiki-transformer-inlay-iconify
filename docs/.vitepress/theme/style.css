@@ -1,0 +1,11 @@
+.shiki-inlay-iconify {
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: sub;
+  margin: 0 0.1em;
+}
+
+html.dark .shiki-inlay-iconify {
+  color: white;
+}
