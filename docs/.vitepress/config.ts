@@ -4,8 +4,8 @@ import { defineConfig } from 'vitepress'
 import { transformerInlayIconify } from '../../src'
 
 export default defineConfig({
-  title: 'Shiki Color Highlight',
-  description: 'Shiki transformer to highlight color in code',
+  title: 'Shiki Inlay Iconify',
+  description: 'Shiki transformer that renders inline Iconify preview',
   themeConfig: {
     socialLinks: [
       { icon: 'github', link: 'https://github.com/antfu/shiki-transformer-inlay-iconify' },
